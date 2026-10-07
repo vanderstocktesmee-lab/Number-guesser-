@@ -1,4 +1,4 @@
-local answer = 50
+local answer = math.random(1, 1000)
 local guess
 
 repeat
